@@ -4,6 +4,6 @@
 <br />
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=satyamsingh07&theme=onedark)](https://git.io/streak-stats)
 <br />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satyamsingh07&langs_count=10&layout=compact&theme=onedark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satyamsingh07&langs_count=5&layout=compact&theme=onedark)
 
 
