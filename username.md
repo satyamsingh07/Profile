@@ -23,7 +23,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=satyamsingh07&show_icons=true&locale=en" alt="" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satyamsingh07& alt="" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satyamsingh07&" alt="" /></p>
 
 
 
