@@ -3,6 +3,13 @@
 <h1 align="center">Hi 👋, I'm Satyam</h1>
 <h3 align="center">An aspiring fullstack devloper</h3>
 
+<h3 align="left">View my active github:</h3>
+<p align="left">
+
+<a href="https://github.com/satyam-capcons" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  height="30" width="40" /> </a>
+
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyamsingh07code&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=satyamsingh07" alt=" " /></a> </p>
